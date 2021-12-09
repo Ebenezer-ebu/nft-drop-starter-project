@@ -1,0 +1,19 @@
+{
+  "name": "Porsche-taycan-turbo",
+  "symbol": "",
+  "image": "porsche-taycan-turbo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "porsche-taycan-turbo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CALJ5RV8gKshJczDXa6L2uWNtvxkenTmaf5j1rxXC8Db",
+        "share": 100
+      }
+    ]
+  }
+}

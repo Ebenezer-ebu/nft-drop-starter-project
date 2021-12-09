@@ -1,0 +1,19 @@
+{
+  "name": "Audi-r8",
+  "symbol": "",
+  "image": "audi-r8.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "audi-r8.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CALJ5RV8gKshJczDXa6L2uWNtvxkenTmaf5j1rxXC8Db",
+        "share": 100
+      }
+    ]
+  }
+}

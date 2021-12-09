@@ -1,0 +1,19 @@
+{
+  "name": "Chevrolet_Corvette",
+  "symbol": "",
+  "image": "Chevrolet_Corvette.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "Chevrolet_Corvette.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CALJ5RV8gKshJczDXa6L2uWNtvxkenTmaf5j1rxXC8Db",
+        "share": 100
+      }
+    ]
+  }
+}
